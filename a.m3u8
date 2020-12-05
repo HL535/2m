@@ -1,5 +1,17 @@
 #EXTINF:-1,AR: 2m.maroc
 http://iptvlogin.com:80/live/dVNq8Ki4ov/aDBTRD2hei/15856.ts
+#EXTINF:-1,AR: Saudia.Sonna.TV
+http://iptvlogin.com:80/live/dVNq8Ki4ov/aDBTRD2hei/15654.ts
+#EXTINF:-1,AR: Saudia.Quran.TV
+http://iptvlogin.com:80/live/dVNq8Ki4ov/aDBTRD2hei/15653.ts
+#EXTINF:-1,AR: Al.Aoula.Maroc
+http://iptvlogin.com:80/live/dVNq8Ki4ov/aDBTRD2hei/15854.ts
+#EXTINF:-1,AR: 2m.maroc
+http://iptvlogin.com:80/live/dVNq8Ki4ov/aDBTRD2hei/15856.ts
+#EXTINF:-1,|AR.MAR|  2M MAROC
+http://localhd.tv:8081/eliteiptv.mine.nu/gaFlHgAkDa/1372
+#EXTINF:-1,|AR.MAR|  MAROCAINE: AL MAGHRIBIA
+http://localhd.tv:8081/eliteiptv.mine.nu/gaFlHgAkDa/1374
 #EXTINF:-1 group-title="MAROC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/2M_TV_logo.png",ahlakid.com - MR-2M-MONDE
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:-1 group-title="MAROC HD" tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/tv-net.co_11.jpg",ahlakid.com - MR-TAMAZIGHT HD
