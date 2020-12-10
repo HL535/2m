@@ -1,20 +1,3 @@
-#EXTM3U
-#EXTINF:-1 group-title="MAROC HD" tvg-logo="http://watchfomny.tv/Video/Arabic-Radio/02/Radio-Tanger/radio.gif",ahlakid.com - MR-M24
-http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w185528531_b4500000_sleng.m3u8?v=
-#EXTINF:-1,AR: 2m.maroc
-http://iptvlogin.com:80/live/dVNq8Ki4ov/aDBTRD2hei/15856.ts
-#EXTINF:-1,AR: Saudia.Sonna.TV
-http://iptvlogin.com:80/live/dVNq8Ki4ov/aDBTRD2hei/15654.ts
-#EXTINF:-1,AR: Saudia.Quran.TV
-http://iptvlogin.com:80/live/dVNq8Ki4ov/aDBTRD2hei/15653.ts
-#EXTINF:-1,AR: Al.Aoula.Maroc
-http://iptvlogin.com:80/live/dVNq8Ki4ov/aDBTRD2hei/15854.ts
-#EXTINF:-1,AR: 2m.maroc
-http://iptvlogin.com:80/live/dVNq8Ki4ov/aDBTRD2hei/15856.ts
-#EXTINF:-1,|AR.MAR|  2M MAROC
-http://localhd.tv:8081/eliteiptv.mine.nu/gaFlHgAkDa/1372
-#EXTINF:-1,|AR.MAR|  MAROCAINE: AL MAGHRIBIA
-http://localhd.tv:8081/eliteiptv.mine.nu/gaFlHgAkDa/1374
 #EXTINF:-1 group-title="MAROC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/2M_TV_logo.png",ahlakid.com - MR-2M-MONDE
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:-1 group-title="MAROC HD" tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/tv-net.co_11.jpg",ahlakid.com - MR-TAMAZIGHT HD
@@ -29,5 +12,6 @@ http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
 #EXTINF:-1 group-title="MAROC HD" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/snrtar.png",ahlakid.com - MR-AL MAGHRIBIA HD TNT
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-
+#EXTINF:-1 group-title="MAROC HD" tvg-logo="http://watchfomny.tv/Video/Arabic-Radio/02/Radio-Tanger/radio.gif",ahlakid.com - MR-M24
+http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w185528531_b4500000_sleng.m3u8?v=
 
